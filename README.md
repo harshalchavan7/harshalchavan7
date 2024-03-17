@@ -10,7 +10,7 @@ I'm Harshal Chavan, a passionate Developer based in India. Welcome to my GitHub 
 
 - 💻 Languages - C++,Java,Python
 - 💻 Front-End - Html, CSS, Javascript, Bootstrap, JQuery
-- 💻 Back-End - Java
+- 💻 Back-End - Java with JDBC
 - 💻 Database - MySQL
 
 ## Projects
