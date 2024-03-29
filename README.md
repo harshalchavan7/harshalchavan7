@@ -15,7 +15,7 @@ I'm Harshal Chavan, a passionate Developer based in India. Welcome to my GitHub 
 
 ## Projects
 
-### Library Management System
+### Library Management System :
 - Implementation of a Library Management System in Java. The system allows users to manage books, members, borrow, and return books.
 
 ### Mini Games : 
