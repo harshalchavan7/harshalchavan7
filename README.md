@@ -31,7 +31,10 @@ As a competitive programmer who loves to test myself and develop my abilities, I
 - 2048: This is a Java implementation of the classic 2048 game. The game is played on a 4x4 grid, where the goal is to reach the tile with a value of 2048. Tiles with the same value can be merged when they are adjacent, and the player can make moves in four directions: up, down, left, and right.
 
 ### Personal Finance Management : 
-- Tracking Spendings & Earnings
+- A simple personal finance management application built in Java using JDBC (Java Database Connectivity) allowing users to manage their financial transactions by performing operations such as adding, viewing, updating, and deleting transactions.
+- Transaction Management: Add, view, update, and delete financial transactions.
+- Database Integration: Utilizes MySQL database for storing transaction data.
+- User-Friendly Interface: Menu-driven interface for easy interaction.
 
 ### To-Do-List : 
 - A user-friendly application designed to streamline task management, prioritization, and organization. Whether you're managing personal chores, work assignments, or daily errands, this intuitive tool empowers you to stay on top of your tasks effortlessly.
