@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Harshal Chavan, a passionate developer based in India. I'm currently pursuing my B.E. in Computer Science and Engineering, and I'm in my third year of studies.
+Hi there! I'm Harshal Chavan, a passionate developer based in India. I'm currently pursuing my B.E. in Computer Science and Engineering, and I'm in my final (fourth) year of studies.
 
 ## About Me
 
