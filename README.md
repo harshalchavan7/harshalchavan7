@@ -1,15 +1,16 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Harshal Chavan, a passionate developer based in India. I'm currently pursuing my B.E. in Computer Science and Engineering, and I'm in my final (fourth) year of studies.
+Hi there! I'm Harshal Chavan, a Computer Engineering graduate and full-time software developer based in India.
 
 ## About Me
 
-- 💼 Currently in the fourth year of bachelor's in engineering in the computer branch.
-- 🌱 I have a strong enthusiasm for technology and programming.
-- 🔍 I'm incredibly curious about anything involving data analysis.
-- 💻 My preferred languages are C++, C, Java, and Python.
-- 🏆 As a competitive programmer, I love testing myself and developing my skills.
-- 📰 I enjoy exploring the latest tech news, following industry trends, and experimenting with new technologies in my free time.
+- 💼 Working full-time as a software developer after completing my degree in Computer Engineering.
+- 🌱 Passionate about building meaningful software, learning emerging technologies, and solving real-world problems.
+- 🔧 Hands-on experience with full-stack development using Java, Python, C++, and more.
+- 🧠 I approach coding challenges with a structured, problem-solving mindset and a constant drive to improve.
+- 🏆 Active competitive programmer — always pushing myself to sharpen my algorithmic thinking.
+- 🛠️ In my free time, I explore new tools, experiment with side projects, and keep up with the latest tech trends.
+- 🤝 Always open to connecting with fellow developers, mentors, and teams building exciting things!
 
 # Technologies & Tools
 
